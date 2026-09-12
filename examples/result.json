@@ -1,0 +1,9 @@
+{
+  "schemaVersion": "conformance.advfab.org/v1",
+  "implementation": "reference-runtime 1.0.0-rc.1",
+  "digest": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+  "suite": "v1.0",
+  "startedAt": "2026-09-12T00:00:00Z",
+  "finishedAt": "2026-09-12T00:01:00Z",
+  "tests": [{"id": "observation.series.complete", "status": "pass"}]
+}
